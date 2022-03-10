@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Baguette",
+        "description": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water.",
+        "ingredients": ["Espresso", "Hot Water"],
+        "price":20,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/baguette-bread-july222020-min-e1595406425983.jpg",
+        "quantity":1,
+        "id": 14
+      },
+      {
+        "title": "Brioche Bread",
+        "description": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+        "ingredients": ["1er Espresso"],
+        "price":15,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/brioche-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 15
+      },
+      {
+        "title": "Ciabatta Bread",
+        "description": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+        "ingredients": ["2do Espresso"],
+        "price":17,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/ciabatta-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 16
+      },
+      {
+        "title": "Focaccia Bread",
+        "description": "Like yin and yang, a cortado is the perfect balance of espresso and warm steamed milk. The milk is used to cut back on the espresso’s acidity.",
+        "ingredients": ["1oz Espresso", "1oz Steamed Milk"],
+        "price":10,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/focaccia-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 17
+      },
+      {
+        "title": "Multigrain Bread",
+        "description": "Named after those pesky midnight flights, a red eye can cure any tiresome morning. A full cup of hot coffee with an espresso shot mixed in, this will definitely get your heart racing.",
+        "ingredients": ["Coffee", "Espresso"],
+        "price":25,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/multigrain-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 18
+      },
+      {
+        "title": "Pita Bread",
+        "description": "Originating in Portugal, this hot coffee drink is closely related to the latte and cappuccino. Only difference is it contains about twice as much foamed milk, making it a lighter drink compared to the other two.",
+        "ingredients": ["Espresso", "Foamed milk"],
+        "price":29,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/pita-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 19
+      },
+      {
+        "title": "Rye Bread",
+        "description": "A lungo is a long-pull espresso. The longer the pull, the more caffeine there is and the more ounces you can enjoy.",
+        "ingredients": ["Long pulled espresso"],
+        "price":30,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/rye-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 20
+      },
+      {
+        "title": "Sourdough Bread",
+        "description": "The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio.",
+        "ingredients": ["Espresso", "Foam"],
+        "price":32,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/sourdough-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 21
+      },
+      {
+        "title": "Arepa Bread",
+        "description": "For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.",
+        "ingredients": ["Espresso", "Steamed Milk", "Chocolate"],
+        "price":28,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/arepa-bread-july222020-min-e1595406791599.jpg",
+        "quantity":1,
+        "id": 22
+      },
+      {
+        "title": "Bagels",
+        "description": "Ristretto is an espresso shot. It uses less hot water which creates a sweeter flavor compared to the bitter taste of a traditional shot of espresso or a doppio.",
+        "ingredients": ["Short pulled espresso"],
+        "price":22,
+        "image":"https://www.homestratosphere.com/wp-content/uploads/2020/07/bagels-bread-july222020-min.jpg",
+        "quantity":1,
+        "id": 23
+      }
+]
+
+
